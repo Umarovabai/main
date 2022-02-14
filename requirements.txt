@@ -1,0 +1,10 @@
+Django==3.2.7
+djangorestframework==3.12.4
+django-model-utils==4.1.1
+psycopg2-binary
+django-filter
+djangorestframework-simplejwt
+Pillow
+celery
+redis
+python-decouple
